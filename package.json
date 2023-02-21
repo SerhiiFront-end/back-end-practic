@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SerhiiFront-end/back-end-practic/issues"
   },
-  "homepage": "https://github.com/SerhiiFront-end/back-end-practic#readme"
+  "homepage": "https://github.com/SerhiiFront-end/back-end-practic#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
