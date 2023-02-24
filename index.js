@@ -43,5 +43,5 @@ app.listen("3333", (err) => {
 	if (err) {
 		return console.log(err)
 	}
-	console.log("Server is working!")
+	console.log(`Server started on port: ${3333}`)
 })
